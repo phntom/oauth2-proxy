@@ -8,6 +8,8 @@
 
 ## Changes since v7.3.0
 
+- [#1788](https://github.com/oauth2-proxy/oauth2-proxy/pull/1788) Update base docker image to alpine 3.16
+
 # V7.3.0
 
 ## Release Highlights
